@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Sketch Animator
+
+**Embryo Sketch Animator** is Embryo-Zero's fork of [Pencil2D](https://github.com/pencil2d/pencil), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 [![Build & Tests](https://github.com/pencil2d/pencil/actions/workflows/ci.yml/badge.svg)](https://github.com/pencil2d/pencil/actions/workflows/ci.yml)
 
 # Pencil2D Animation
