@@ -1,7 +1,7 @@
 # Legal notes for Embryo Sketch Animator
 
 Embryo Sketch Animator is a modified version of **Pencil2D** (https://github.com/pencil2d/pencil), copyright its authors.
-License (read from its license file on 2026-11-16): **BSD-3-Clause**. Original license files, unchanged: LICENSE.QT.TXT, LICENSE.TXT.
+License (read from its license file on 2026-11-16): **GPL-2.0 (LICENSE.TXT; one Qt example file under BSD, LICENSE.QT.TXT)** (read by a person). Original license files, unchanged: LICENSE.QT.TXT, LICENSE.TXT.
 
 - `LICENSE.QT.TXT`: The following source files are part of the examples of the Qt Toolkit: / core_lib/src/interface/flowlayout.cpp / core_lib/src/interface/flowlayout.h
 - `LICENSE.TXT`: GNU GENERAL PUBLIC LICENSE / Version 2, June 1991 / Copyright (C) 1989, 1991 Free Software Foundation, Inc.,
